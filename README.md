@@ -8,3 +8,7 @@ Projects implemented for ECE 877 - Computer Vision
 4. Image mosaicking.
 5. Calculation of Homographies and fundamental matrix.
 6. Tomasi-Kanade factorization Structure from motion.
+
+All projects are written in C++ using Blepo for image processing
+
+Course website: http://www.ces.clemson.edu/~stb/ece877/spring2012/
